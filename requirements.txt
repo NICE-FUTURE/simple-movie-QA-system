@@ -1,0 +1,4 @@
+numpy
+pyhanlp
+py2neo
+scikit-learn
