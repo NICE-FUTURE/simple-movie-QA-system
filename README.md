@@ -23,4 +23,4 @@ python main.py
 
 # 执行效果
 
-<img src="https://img.hxhen.com/20200324231817.png" style="zoom:80%;" />
+![](https://img.hxhen.com/20200324231817.png)
